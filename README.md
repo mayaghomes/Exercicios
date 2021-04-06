@@ -1,2 +1,2 @@
 # Exercicios 
- Repositórios de atividades realizadas durante os cursos
+ Repositório de atividades realizadas durante os cursos
