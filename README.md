@@ -1,2 +1,2 @@
 # Exercicios 
- Repositório de atividades realizadas durante os cursos
+ Repositório de atividades realizadas durante o curso de Python
